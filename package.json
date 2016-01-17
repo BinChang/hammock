@@ -24,6 +24,7 @@
     "readable-stream": "~1.0.33"
   },
   "devDependencies": {
+    "response": "^0.18.0",
     "tape": "^3.0.3"
   },
   "author": "Tommy Messbauer",
